@@ -31,7 +31,8 @@ Cũng tương tự như tắt gỡ lỗi usb, mỗi điện thoại Android sẽ
   # 3/ Dùng phiên bản web của vneid https://vneid.gov.vn/
 Đây là cách đơn giản mà an toàn nhất, bạn truy cập vào trang chính thống của  VNeID tại: https://vneid.gov.vn/
 Sau đó chọn Đăng nhập, giao diện đăng nhập bạn nhập số CCCD và mật khẩu để truy cập các tính năng của VNeID
-https://anonyviet.com/wp-content/uploads/2024/06/02-06-2024-03-59-53-1.png![image](https://github.com/user-attachments/assets/6410f97b-8bf4-40c1-8e74-e57cea8c6a06)
+![02-06-2024-03-59-53-1](https://github.com/user-attachments/assets/bd4f8d10-39c2-42af-959c-37456b1db72e)
+
 # 4/ Các cách khác để truy cập VneID báo lỗi
 Ngoài ra còn một số cách để  sửa lỗi VNeID báo lỗi “Thiết bị của bạn không an toàn…” như:
 
